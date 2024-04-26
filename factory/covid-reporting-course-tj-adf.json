@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-course-tj-adf",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9bc5f443-b441-4a59-8cea-64568b1cf10d",
+		"tenantId": "cb55e0dc-876e-4ca8-8b57-90ef5256cd75"
+	}
+}
